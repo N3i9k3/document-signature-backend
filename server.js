@@ -15,7 +15,7 @@ import auditRoutes from "./routes/auditRoutes.js";
 
 dotenv.config();
 
-console.log("JWT SECRET:", process.env.JWT_SECRET);
+
 
 connectDB();
 
